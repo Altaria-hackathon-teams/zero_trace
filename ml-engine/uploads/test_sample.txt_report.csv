@@ -1,0 +1,7 @@
+Category,IOC,File
+Domain,It drops a hidden executable at C:\Users\Public\Libraries\svchost.exe,test_sample.txt
+Email,"If the user wants their files decrypted, they must contact attacker@shadow-syndicate.net.",test_sample.txt
+File_Path,It drops a hidden executable at C:\Users\Public\Libraries\svchost.exe,test_sample.txt
+IPv4,"If that fails, it tries the backup IP at 203.0.113.42 over port 80.",test_sample.txt
+Registry,"To maintain persistence, it writes to HKCU\Software\Microsoft\Windows\CurrentVersion\Run\WindowsUpdaterApp",test_sample.txt
+URL,The malware starts by calling out to http://evil-c2-server.com/payload.bin to download the next stage.,test_sample.txt
