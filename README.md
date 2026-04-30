@@ -1,5 +1,15 @@
 # Zero_trace
 
+## Problem Statement 
+
+Problem: Over 150 million gig workers in India (Swiggy, Zomato, Ola drivers) earn real, consistent income but have zero formal credit history no payslips, no CIBIL score. Banks reject 90% of their loan applications, pushing them toward oppresive moneylenders charging 36–60% interest.
+
+Solution: GigCredit converts existing platform activity (order history, earnings, tenure, activity frequency) into a portable, worker-owned credit score. The data is processed through a ZK-proof engine that generates a cryptographic attestation of creditworthiness without ever exposing the raw income data. This attestation is secured on a blockchain smart contract, making it tamper-proof and instantly verifiable by any bank or NBFC.
+
+How it uses AI & Blockchain: An AI scoring engine analyzes behavioral and earnings patterns to compute the GigScore.
+
+Impact: A verified GigScore could replace a 48% informal loan with a 14% bank loan. Reaching just 1% of the workforce means 1.5 million people get their first formal financial identity unlocking housing loans, insurance, and generational financial stability.
+
 ## Folder Structure
 
 ```bash
