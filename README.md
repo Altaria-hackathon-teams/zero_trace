@@ -30,7 +30,7 @@ gigcredit/ (monorepo)
 │   │   ├── store/
 │   │   │   └── useWorkerStore.js    # Zustand global state
 │   │   └── utils/
-│   │       └── gigId.js             # GIG-BLR-SWG-XXXXX
+│   │       └── gigId.js             # GIG-XXXXXX
 │   └── public/
 │       └── mock/
 │           └── workers.json         # 5 demo profiles
