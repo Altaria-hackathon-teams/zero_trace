@@ -1,11 +1,10 @@
-import './App.css'
 
 function App() {
  
 
   return (
     <>
-      <div className='w-full h-full bg-gray-500'></div>
+      <div className='w-screen h-screen bg-gray-500'></div>
     </>
   )
 }
